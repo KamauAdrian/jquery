@@ -1,0 +1,16 @@
+.divone{
+    background-color: #fff;
+    margin: 15px auto;
+    padding: 10px auto;
+    text-align: center;
+    font-size: 120em;
+    border:2px solid red;
+    height: 300px;
+    color: black;
+}
+.bold{
+    font-weight: bold;
+}
+.comment_border{
+    border-style: outset;
+}
